@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
+
+<cars>
+    <car>
+        <name>Audi </name>
+        <model>A5</model>
+        <price>59000</price>
+        <rating>9.5f</rating>
+        <platform>
+            <platformName>www.audi.de</platformName>
+        </platform>
+        <launcher>
+            <launcherName>Electronic car - https://www.guideautoweb.com/en/articles/59980/electric-audi-a4-e-tron-coming-in-2023/</launcherName>
+        </launcher>
+    </car>
+
+    <car>
+        <name>Audi </name>
+        <model>A6</model>
+        <price>95000</price>
+        <rating>9.8f</rating>
+        <platform>
+            <platformName>www.audi.com</platformName>
+        </platform>
+        <launcher>
+            <launcherName>Diesel-car - https://autogidas.lt/en/skelbimai/automobiliai/audi/a4/?f_2=Dyzelinas</launcherName>
+        </launcher>
+    </car>
+
+    <car>
+        <name>Audi </name>
+        <model>A4</model>
+        <price>75000</price>
+        <rating>9.5f</rating>
+        <platform>
+            <platformName>www.audi.uk</platformName>
+        </platform>
+        <launcher>
+            <launcherName>Gasoline-cars - https://autogidas.lt/en/skelbimai/automobiliai/audi/a4/?f_2=Benzinas</launcherName>
+        </launcher>
+    </car>
+</cars>
